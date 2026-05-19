@@ -16,9 +16,7 @@ A mechanical simulation project focused on modeling and evaluating a catapult me
 - Translating a physical mechanism concept into an analyzable engineering model
 - Presenting simulation work as part of a broader robotics and mechatronics portfolio
 
-## Technical Focus
-
-This project is useful for showing experience with:
+## Technical Highlights
 
 - Multibody simulation
 - Mechanical system modeling
@@ -26,14 +24,10 @@ This project is useful for showing experience with:
 - CAD-to-simulation workflows
 - Mechatronics design validation
 
-## Suggested GitHub Topics
+## Project Roadmap
 
-`msc-adams` `mechanical-design` `multibody-dynamics` `simulation` `mechatronics` `mechanism-design` `robotics`
-
-## Future Enhancements
-
-- Add screenshots or GIFs of the catapult simulation.
-- Include key simulation assumptions, constraints, and parameters.
-- Add exported plots for displacement, velocity, acceleration, and reaction forces.
-- Document the design objective and any optimization decisions.
-- Add a short results section summarizing what the simulation proved.
+- Simulation screenshots or GIFs
+- Key simulation assumptions, constraints, and parameters
+- Exported plots for displacement, velocity, acceleration, and reaction forces
+- Design objective and optimization notes
+- Results summary for the final mechanism behavior
